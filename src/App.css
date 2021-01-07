@@ -1,0 +1,68 @@
+.logo {
+  width: 900px;
+  height: 600px;
+  border-radius: 5px;
+}
+
+.imgContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.leftContent {
+  padding-left: 230px;
+}
+
+.rightContent {
+  padding-left: 10px;
+  padding-right: 200px;
+}
+
+.links {
+  display: flex;
+  justify-content: space-between;
+}
+
+.link {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 50px 10px 20px;
+}
+
+.middleOne {
+  padding: 0 20px 0 20px;
+}
+
+.middleTwo {
+  padding: 0 20px 0 10px;
+}
+
+.formDiv {
+  text-align: center;
+  border: 1px solid white;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+.detailsDiv {
+  text-align: center;
+  border: 1px solid white;
+  padding-left: 500px;
+  padding-right: 500px;
+}
+
+.spaceBtn {
+  margin-right: 16px;
+}
+
+.taskList {
+  text-align: center;
+  border: 1px solid white;
+  padding-left: 500px;
+  padding-right: 500px;
+}
